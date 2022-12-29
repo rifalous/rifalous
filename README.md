@@ -13,7 +13,7 @@ I'm [**Rifal**](httos://github.com/rifalous). I can make life very awkward, but 
   alt="the four founders"
   style="margin-top:20px;margin-right:13px"
   align="left" 
-  height="380px"
+  height="365px"
 />
 
 <!--
