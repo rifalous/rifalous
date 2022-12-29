@@ -1,5 +1,7 @@
 ## Hi 👋 
 
+I'm [**Rifal**](httos://github.com/rifalous). I can make life very awkward, but in a good way. I am good at creating problems and suggesting high level conspiracies. Occasionally, I curse. Every now and then, when it's necessary, I can even pretend that I have a brilliant mind!
+
 > For as long as we can remember, magic has been a part of our lives. And we've found that magic powers are always a part of everyday life — even if you're not a wizard yourself! After all, it's not magic without the power to make it happen.
 
 
