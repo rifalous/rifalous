@@ -1,6 +1,8 @@
 ## Hi 👋 
 
 > For as long as we can remember, magic has been a part of our lives. And we've found that magic powers are always a part of everyday life — even if you're not a wizard yourself! After all, it's not magic without the power to make it happen.
+
+
 > Every good wizard knows; if you have the name of a spirit, you have power over it. - [found here](https://slides.com/thomasomans/functional-programming-forever/fullscreen#/2/0/4)
 
 <a href="https://web.mit.edu/6.001/6.037/sicp.pdf">   
