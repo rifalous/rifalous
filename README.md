@@ -2,17 +2,17 @@
 
 Greetings, curious minds! Embark on a journey through the digital constellations with me – a seasoned Software Engineer, Network Maestro, and Artisan of Android & Web realms.
 
-> 🌟 Digital Alchemist: With a trailblazing history in the dynamic IT landscape, I've woven spells of innovation and code mastery. From ethereal networks to captivating user experiences, I breathe life into the virtual realm.
+- 🌟 Digital Alchemist: With a trailblazing history in the dynamic IT landscape, I've woven spells of innovation and code mastery. From ethereal networks to captivating user experiences, I breathe life into the virtual realm.
 
-> 💡 Polyglot of Code: My palette of programming prowess is a vibrant tapestry – Java, Android, Kotlin, PHP, and the harmonious cadence of JQuery and Angular. Git and Linux are my trusty compasses, guiding me through the ever-evolving tech terrain.
+- 💡 Polyglot of Code: My palette of programming prowess is a vibrant tapestry – Java, Android, Kotlin, PHP, and the harmonious cadence of JQuery and Angular. Git and Linux are my trusty compasses, guiding me through the ever-evolving tech terrain.
 
-> 🎓 Academic Odyssey: A graduate of Telkom University, I honed my skills as a Strong Operations Luminary. Armed with knowledge and armed with passion, I embarked on a mission to reshape the digital realm.
+- 🎓 Academic Odyssey: A graduate of Telkom University, I honed my skills as a Strong Operations Luminary. Armed with knowledge and armed with passion, I embarked on a mission to reshape the digital realm.
 
-> 🏆 Architect of Dreams: Every project I touch metamorphoses into a digital symphony – where architecture meets elegance, and functionality waltzes with ingenuity. I don't just code; I compose experiences that defy gravity.
+- 🏆 Architect of Dreams: Every project I touch metamorphoses into a digital symphony – where architecture meets elegance, and functionality waltzes with ingenuity. I don't just code; I compose experiences that defy gravity.
 
-> 🌐 Network Magician: Networks bow to my command, as I orchestrate their intricate dance. From intricate threads of connectivity to robust fortresses of data, I sculpt pathways for seamless digital communication.
+- 🌐 Network Magician: Networks bow to my command, as I orchestrate their intricate dance. From intricate threads of connectivity to robust fortresses of data, I sculpt pathways for seamless digital communication.
 
-> 🚀 Limitless Horizons: The technology saga unfolds with each keystroke, and I am not just a spectator; I am the conductor, composing a harmonious symphony of progress.
+- 🚀 Limitless Horizons: The technology saga unfolds with each keystroke, and I am not just a spectator; I am the conductor, composing a harmonious symphony of progress.
 
 So, if you're seeking a collaborator to craft wonders in code, sculpt networks into art, and journey together through the digital cosmos, let's connect and illuminate the virtual universe. 🚀🌌
 
