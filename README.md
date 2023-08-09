@@ -6,7 +6,7 @@ Greetings, curious minds! Embark on a journey through the digital constellations
 
 - 💡 Polyglot of Code: My palette of programming prowess is a vibrant tapestry – Java, Android, Kotlin, PHP, and the harmonious cadence of JQuery and Angular. Git and Linux are my trusty compasses, guiding me through the ever-evolving tech terrain.
 
-- 🎓 Academic Odyssey: A graduate of Telkom University, I honed my skills as a Strong Operations Luminary. Armed with knowledge and armed with passion, I embarked on a mission to reshape the digital realm.
+- 🎓 Academic Odyssey: A proud Telkom University alumnus, now harmonizing tech symphonies at Widyatama University., I honed my skills as a Strong Operations Luminary. Armed with knowledge and armed with passion, I embarked on a mission to reshape the digital realm.
 
 - 🏆 Architect of Dreams: Every project I touch metamorphoses into a digital symphony – where architecture meets elegance, and functionality waltzes with ingenuity. I don't just code; I compose experiences that defy gravity.
 
