@@ -51,11 +51,7 @@ module Rifal = {
 }
 
 ```
-
-
-
-
-
+#
 ## 🚀 Crafting Digital Symphony: Software, Networks, and Beyond! 🌐
 
 Greetings, curious minds! Embark on a journey through the digital constellations with me – a seasoned Software Engineer, Network Maestro, and Artisan of Android & Web realms.
